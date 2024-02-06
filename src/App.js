@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Learn React
         </a>
-        <h1>Hi moda shaeni.Oya nm harima modayek</h1>
+        <h1>Hi moda shaeni</h1>
+        <h2>Oya nm harima modayek thama</h2>
       
       </header>
     </div>
