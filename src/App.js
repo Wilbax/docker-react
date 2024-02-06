@@ -17,8 +17,8 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Hi moda shaeni</h1>
-        <h2>Oya nm harima modayek thama</h2>
+        <h1>I was change for feature brach</h1>
+        <h2></h2>
       
       </header>
     </div>
